@@ -1,3 +1,18 @@
 [submodule "LMS"]
 	path = LMS
 	url = https://github.com/Phibedy/LMS
+[submodule "external/libraries/sense_link"]
+	path = external/libraries/sense_link
+	url = https://github.com/tum-phoenix/sense_link.git
+[submodule "external/libraries/math_lib"]
+	path = external/libraries/math_lib
+	url = https://github.com/lms-org/math_lib.git
+[submodule "external/modules/usb_sense_link"]
+	path = external/modules/usb_sense_link
+	url = https://github.com/tum-phoenix/usb_sense_link.git
+[submodule "external/modules/ogre_window_manager"]
+	path = external/modules/ogre_window_manager
+	url = https://github.com/lms-org/ogre_window_manager.git
+[submodule "external/libraries/ogre_binding"]
+	path = external/libraries/ogre_binding
+	url = https://github.com/lms-org/ogre_binding.git
