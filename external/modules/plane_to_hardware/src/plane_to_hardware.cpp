@@ -1,6 +1,7 @@
 #include "plane_to_hardware.h"
 
 bool PlaneToHardware::initialize() {
+    datamanager()->readChannel<sensor_utils::Plane>(this,"PLANE");
     return true;
 }
 

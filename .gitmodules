@@ -16,3 +16,6 @@
 [submodule "external/libraries/ogre_binding"]
 	path = external/libraries/ogre_binding
 	url = https://github.com/lms-org/ogre_binding.git
+[submodule "external/libraries/sensor_utils"]
+	path = external/libraries/sensor_utils
+	url = https://github.com/lms-org/sensor_utils.git
